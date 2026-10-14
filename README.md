@@ -24,3 +24,4 @@ O **Conecta+** é uma solução tecnológica (web/mobile) desenvolvida para comb
 ├── tests/              # Testes unitários e de integração
 ├── .github/workflows/  # Pipeline de Integração Contínua (CI)
 └── README.md           # Documentação do projeto
+- ♿ Suporte a diretrizes WCAG 2.1 para navegação por teclado e leitores de tela.
